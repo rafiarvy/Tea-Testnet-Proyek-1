@@ -1,2 +1,2 @@
 # Tea-Testnet-Proyek-1
-This is tea tesnet proyek
+This is tea testnet proyek
